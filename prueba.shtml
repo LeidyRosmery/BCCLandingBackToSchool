@@ -1,0 +1,384 @@
+<link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/css/magnific-popup5.css">
+<link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/assets/css/slick.css?v=1ui32292">
+<link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/assets/css/slick-theme.css?v=1u322292">
+<link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/landings/assets/css/main.css?v=1ui32292">
+<style type="text/css">
+  .breadrumbWrap {
+    display: none;
+  }
+
+  #main.newMainSection>.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    overflow: hidden;
+    background: #A8BABA;
+  }
+
+  #main.newMainSection {
+    margin: 0!important;
+  }
+
+  #main.newMainSection>.container>.col-md-12 {
+    padding: 0!important;
+  }
+
+  .container.breadcrumb.hidden-md.hidden-lg.newMbreadrumb {
+    display: none !important;
+  }
+
+  #main.newMainSection>.container {
+    width: 100%;
+  }
+</style>
+<div class="row">
+  <div class="banner-home text-center">
+    <div class="slider-drag1">
+      <div class="slider-header slider-header-1">
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/assets/img/logo-banner.png" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+            <img class="hidden-xs hidden-sm" src="/static/categorias/contenidoEstatico/landings/assets/img/combo.png" class="text-left" alt="imagen-combo">
+            <p class="text-producto">Escritorio en L vidrio +</p>
+            <p class="text-producto">Sillon Ejecutivo Bilbao</p>
+            <p class="text-marca hidden-xs hidden-sm">SKU 2207044</p>
+            <p class="text-precio">S/ 389 <span class="text-decimal">.90</span></p>
+          </div>
+          <a class="view-more" href="">+ Ver más</a>
+        </div>
+      </div>
+      <div class="slider-header slider-header-2">
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/assets/img/logo-banner.png" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+
+            <img class="hidden-xs hidden-sm" src="/static/categorias/contenidoEstatico/landings/assets/img/combo.png" class="text-left" alt="imagen-combo">
+
+            <p class="text-producto">Escritorio en L vidrio +</p>
+            <p class="text-producto">Sillon Ejecutivo Bilbao</p>
+            <p class="text-marca hidden-xs hidden-sm">SKU 2207044</p>
+            <p class="text-precio">S/ 389 <span class="text-decimal">.90</span></p>
+          </div>
+          <a class="view-more" href="">+ Ver más</a>
+        </div>
+      </div>
+      <div class="slider-header slider-header-3">
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/assets/img/logo-banner.png" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+            <img class="hidden-xs hidden-sm" src="/static/categorias/contenidoEstatico/landings/assets/img/combo.png" class="text-left" alt="imagen-combo">
+            <p class="text-producto">Escritorio en L vidrio +</p>
+            <p class="text-producto">Sillon Ejecutivo Bilbao</p>
+            <p class="text-marca hidden-xs hidden-sm">SKU 2207044</p>
+            <p class="text-precio">S/ 389 <span class="text-decimal">.90</span></p>
+          </div>
+          <a class="view-more" href="">+ Ver más</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="contenido">
+  <div class="row">
+    <div class="hidden-xs hidden-sm col-md-2 col-lg-2">
+      <div class="contenedor-menu">
+        <ul class="menu">
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu">+ ESCRITORIOS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + SILLAS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + ORGANIZACIÓN </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + MENAJE </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + MOCHILAS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + CARTUCHERAS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu">+ LONCHERAS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + CÓMPUTO </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+          <li class="item-menu">
+            <a href="" class="link-menu">
+              <div class="contenedor-item-menu">
+                <p class="categoria-menu"> + ILUMINACION </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-10 col-sm-12 col-lg-10 pad-bottom">
+      <a href="" class="link-cat" title="click">
+        <div class="categoria escritorios">
+          <div class="letter-categoria letter-categoria-medium">
+            <div class="title-categoria">
+              <p>ESCRITORIOS</p>
+              <span class="img-letter glyphicon glyphicon-menu-right"></span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-right">
+      <a href="" class="link-cat" title="click">
+        <div class="categoria sillas">
+          <div class="letter-categoria">
+            <div class="title-categoria">
+              <p>SILLAS DE OFICINA</p>
+              <span class="img-letter glyphicon glyphicon-menu-right"></span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-left">
+      <a href="" class="link-cat" title="click">
+        <div class="categoria organiza">
+          <div class="letter-categoria">
+            <div class="title-categoria">
+              <p>ORGANIZACION</p>
+              <span class="img-letter glyphicon glyphicon-menu-right"></span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12 pad-bottom">
+      <a href="" class="link-cat" title="click">
+        <div class="categoria mochilas">
+          <div class="letter-categoria letter-categoria-long">
+            <div class="title-categoria title-categoria-long">
+              <p>MOCHILAS, LONCHERAS Y CARTUCHERAS</p>
+              <span class="img-letter glyphicon glyphicon-menu-right"></span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6">
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12 pad-right">
+          <a href="" class="link-cat" title="click">
+            <div class="categoria menaje">
+              <div class="letter-categoria">
+                <div class=" title-categoria">
+                  <p>MENAJE</p>
+                  <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12 pad-right">
+          <a href="" class="link-cat" title="click">
+            <div class="categoria computo">
+              <div class="letter-categoria">
+                <div class="title-categoria">
+                  <p>COMPUTO</p>
+                  <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-left">
+      <a href="link-cat" title="click">
+        <div class="categoria iluminacion categoria-long">
+          <div class="letter-categoria letter-categoria-tall">
+            <div class="title-categoria">
+              <p>ILUMINACION</p>
+              <span class="img-letter glyphicon glyphicon-menu-right"></span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="section-escritorio ">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-lg-6 col-md-6">
+        <div class="text-video">
+          <div class="div-img-escritorio">
+            <img class="icono-escritorio" src="/static/categorias/contenidoEstatico/landings/assets/img/icono-escritorio.png" alt="icono-escritorio">
+            <img class="logo-escritorio" src="/static/categorias/contenidoEstatico/landings/assets/img/logo-escritorio.png" alt="logo-escritorio">
+          </div>
+          <p class="descripcion-video"> Ubica tu escritorio cerca a las ventanas para aprovechar la luz natural del dia y cerca a un tomacorriente para iluminarlo de noche </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-lg-6 col-md-6">
+        <a class="link-video popup-youtube" href="https://www.youtube.com/watch?v=2GoeyyjNgms">
+          <div class="video-escritorio">
+          </div>
+          <a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="contenedor-carrousel ">
+  <div class="div-carrousel text-center">
+    <div class="row text-center">
+      <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para tener en cuenta</p>
+      <div class="slider-drag2">
+        <div class="prueba">
+          <div class="img-tip img-tip-1">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>ORGANIZACIÓN</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">Una área de estudio ordenada incrementa la atención y rendimiento académico. Clasifica tus objetos de uso diario en cajones o cajas para tenerlos siempre a la mano y evitar el desorden. </p>
+        </div>
+        <div class="prueba">
+          <div class="img-tip img-tip-2">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>LONCHERA</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">
+            Una alimentación saludable estimula la concentración durante el día. Una lonchera escolar debe tener alimentos protectores (frutas), formadores (carnes), energéticos (cereales) y líquidos.
+          </p>
+        </div>
+        <div class="prueba">
+          <div class="img-tip img-tip-3">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>SILLAS</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">
+            Evita dolores de espalda y problemas lumbares eligiendo la silla adecuada. Es importante que tenga apoyabrazos y altura regulable para adecuarse a tu ergonomía.
+          </p>
+        </div>
+        <div class="prueba">
+          <div class="img-tip img-tip-1">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>ORGANIZACIÓN</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">Una área de estudio ordenada incrementa la atención y rendimiento académico. Clasifica tus objetos de uso diario en cajones o cajas para tenerlos siempre a la mano y evitar el desorden. </p>
+
+        </div>
+        <div class="prueba">
+          <div class="img-tip img-tip-2">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>LONCHERA</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">
+            Una alimentación saludable estimula la concentración durante el día. Una lonchera escolar debe tener alimentos protectores (frutas), formadores (carnes), energéticos (cereales) y líquidos.
+          </p>
+        </div>
+        <div class="prueba">
+          <div class="img-tip img-tip-3">
+            <div class="letter-tip">
+              <div class="name-tips">
+                <p>SILLAS</p>
+              </div>
+            </div>
+          </div>
+          <p class="text-tip text-justify">
+            Evita dolores de espalda y problemas lumbares eligiendo la silla adecuada. Asegúrate que tenga apoyabrazos y altura regulable para adecuarse a tu ergonomía y un respaldo estable para mantener una buena postura.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src=" /static/categorias/contenidoEstatico/landings/assets/js/slick.js?v=3de3"></script>
+<script type="text/javascript" src=" /static/categorias/contenidoEstatico/landings/assets/js/carrousel.js?v=3de3"></script>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/js/jquery.magnific-popup5.js?v=3de3"></script>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/app.js?v=3de3"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var widthWindows = $(window).width();
+    if (widthWindows < 480) {
+      const widthSlide = (widthWindows / 100) * 68;
+      $(".slider-drag2 .slick-slide").css("width", widthSlide);
+    }
+    $(window).resize(function() {
+
+      if (widthWindows < 480) {
+        console.log("resize");
+        var widthWindows1 = $(window).width();
+        const widthSlide1 = (widthWindows1 / 100) * 76;
+        $(".slider-drag2 .slick-slide").css("width", widthSlide1);
+      }
+    });
+    var heights = $(".prueba").map(function() {
+        return $(this).height();
+      }).get(),
+      maxHeight = Math.max.apply(null, heights);
+    $(".prueba").height(maxHeight);
+
+    // PLUGIN MAGNIFICPOPUP
+    $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+      disableOn: 700,
+      type: 'iframe',
+      mainClass: 'mfp-fade',
+      removalDelay: 160,
+      preloader: false,
+      fixedContentPos: false
+    });
+    //END MAGNIFICPOPUP
+  });
+</script>
